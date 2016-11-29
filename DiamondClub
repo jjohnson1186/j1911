@@ -1,1 +1,19 @@
-
+<html>
+  <title>
+  Welcome to the Diamond Club
+  </title>
+  
+  <body>
+    <h1>Diamond Club was founded upon higher ideals</h1>
+    </body>
+    
+    <style>
+      body {
+        Background-color:red;
+        color: #800000;
+        text-align:center;
+        }
+       </style>
+       
+      </html>
+      
